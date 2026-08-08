@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SKLESK-admj.aternos.me",
-    "port": 35579,
+    "ip": "91.197.6.19:23343",
+    "port": 23343,
     "version": "",
     "try-creative": false
   },
